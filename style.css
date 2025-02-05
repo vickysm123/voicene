@@ -1,0 +1,8 @@
+.relative{
+    
+        background-image: url("images/Rectangle.jpg");        
+        display: block;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        height: 203px;
+}
